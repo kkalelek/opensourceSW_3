@@ -1,0 +1,5 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pytest==8.3.3
+tzdata==2024.2
+PyMySQL==1.1.1
